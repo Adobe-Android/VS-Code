@@ -1,7 +1,7 @@
 # My repo for all things VS Code
 
 ## Extensions:
-### Productivity/Editor:
+#### Productivity/Editor:
   - Sublime Text Keymap (For Sublime converts) 
     - **Author: Microsoft**
     - https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings
@@ -15,12 +15,12 @@
     - **Author: Juan Han**
     - https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
 
-### Python:
+#### Python:
   - Python
     - **Author: Microsoft**
     - https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
-### C/C++:
+#### C/C++:
   - C/C++
     - **Author: Microsoft**
     - https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
