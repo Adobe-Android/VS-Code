@@ -16,12 +16,12 @@ Productivity/Editor:
     - https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
 
 Python:
-  - Python (Microsoft)
+  - Python
   **Author: Microsoft**
     - https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
 C/C++:
-  - C/C++ (Microsoft)
+  - C/C++
   **Author: Microsoft**
     - https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
   - C++ Intellisense
