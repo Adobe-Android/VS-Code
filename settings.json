@@ -4,7 +4,7 @@
     "workbench.iconTheme": "material-icon-theme",
     // "window.zoomLevel": 1.7,
     "files.autoSave": "onFocusChange",
-    "editor.tabSize": 2,
+    "editor.tabSize": 4,
     "editor.multiCursorModifier": "ctrlCmd",
     "sublimeTextKeymap.promptV3Features": true,
     "editor.snippetSuggestions": "top",
