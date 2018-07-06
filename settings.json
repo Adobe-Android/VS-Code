@@ -1,13 +1,14 @@
 {
-    "editor.fontFamily": "DejaVu Sans Mono",
-    "workbench.iconTheme": "material-icon-theme",
-    // "window.zoomLevel": 1.7,
     "files.autoSave": "onFocusChange",
     "editor.tabSize": 4,
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 0,
     "editor.multiCursorModifier": "ctrlCmd",
-    "sublimeTextKeymap.promptV3Features": true,
     "editor.snippetSuggestions": "top",
     "editor.formatOnPaste": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "java.errors.incompleteClasspath.severity": "ignore",
     "code-runner.executorMap": {
         "javascript": "node",
         "java": "cd $dir && javac $fileName && java $fileNameWithoutExt",
