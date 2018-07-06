@@ -9,4 +9,5 @@
     "liveServer.settings.donotShowInfoMsg": true,
     "liveServer.settings.donotVerifyTags": true,
     "java.errors.incompleteClasspath.severity": "ignore",
+    "code-runner.clearPreviousOutput": true,
 }
