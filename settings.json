@@ -10,4 +10,16 @@
     "liveServer.settings.donotVerifyTags": true,
     "java.errors.incompleteClasspath.severity": "ignore",
     "code-runner.clearPreviousOutput": true,
+    "rust.rustup": {
+        "toolchain": "stable-x86_64-unknown-linux-gnu",
+        "nightlyToolchain": "nightly-x86_64-unknown-linux-gnu"
+    },
+    "rust.mode": "rls",
+    "rust.rls": {
+        "useRustfmt": true
+    },
+    "code-runner.executorMap": {
+        "rust": "cd $dir && cargo build",
+    },
+    "editor.fontSize": 16,
 }
