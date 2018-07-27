@@ -38,3 +38,17 @@
   - highlight-matching-tag
       - **Author: vincaslt**
       - https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag
+      
+#### Rust:
+  - Rust
+    - **Author: kalitaalexey**
+    - https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust
+  - Rust (rls)
+    - **Author: rust-lang**
+    - https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
+  - Better TOML
+    - **Author: bungcip**
+    - https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml
+  - crates
+    - **Author: Seray Uzgur**
+    - https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates
