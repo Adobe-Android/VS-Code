@@ -1,14 +1,11 @@
 {
-    "files.autoSave": "onFocusChange",
-    "editor.tabSize": 4,
     "workbench.iconTheme": "material-icon-theme",
-    "window.zoomLevel": 0,
-    "editor.multiCursorModifier": "ctrlCmd",
-    "editor.snippetSuggestions": "top",
-    "editor.formatOnPaste": true,
+    "editor.fontSize": 16,
+    "breadcrumbs.enabled": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1200,
     "liveServer.settings.donotShowInfoMsg": true,
     "liveServer.settings.donotVerifyTags": true,
-    "java.errors.incompleteClasspath.severity": "ignore",
     "code-runner.clearPreviousOutput": true,
     "rust.rustup": {
         "toolchain": "stable-x86_64-unknown-linux-gnu",
@@ -21,5 +18,4 @@
     "code-runner.executorMap": {
         "rust": "cd $dir && cargo build",
     },
-    "editor.fontSize": 16,
 }
