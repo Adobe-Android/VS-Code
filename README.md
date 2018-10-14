@@ -1,4 +1,4 @@
-# My repo for all things VS Code
+# My personal Visual Studio Code config
 
 ## Extensions:
 #### Productivity/Editor:
