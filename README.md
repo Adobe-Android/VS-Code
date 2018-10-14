@@ -14,12 +14,31 @@
   - Code Runner (automate the process of running your code with a single button or a key combination). 
     - **Author: Juan Han**
     - https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+  - Live Server
+    - **Author: Ritwick Dey**
+    - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
+#### HTML:
+  - highlight-matching-tag
+      - **Author: vincaslt**
+      - https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag
+      
 #### Python:
   - Python
     - **Author: Microsoft**
     - https://marketplace.visualstudio.com/items?itemName=ms-python.python
-
+    
+#### C#:
+  - C#
+    - **Author: Microsoft**
+    - https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
+  - C# Extensions
+    - **Author: jchannon**
+    - https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions
+  - .NET Core Tools
+    - **Author: Jun Han**
+    - https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet
+    
 #### C++:
   - C/C++
     - **Author: Microsoft**
@@ -34,11 +53,6 @@
     - **Author: vector-of-bool**
     - https://marketplace.visualstudio.com/items?itemName=vector-of-bool.cmake-tools
 
-#### HTML:
-  - highlight-matching-tag
-      - **Author: vincaslt**
-      - https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag
-      
 #### Rust:
   - Rust
     - **Author: kalitaalexey**
