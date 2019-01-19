@@ -1,22 +1,28 @@
 {
-    "workbench.iconTheme": "material-icon-theme",
-    "editor.fontSize": 16,
-    "breadcrumbs.enabled": true,
-    "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 1200,
-    "liveServer.settings.donotShowInfoMsg": true,
-    "liveServer.settings.donotVerifyTags": true,
-    "code-runner.clearPreviousOutput": true,
-    "rust.rustup": {
-        "toolchain": "stable-x86_64-unknown-linux-gnu",
-        "nightlyToolchain": "nightly-x86_64-unknown-linux-gnu"
-    },
-    "rust.mode": "rls",
-    "rust.rls": {
-        "useRustfmt": true
-    },
-    "code-runner.executorMap": {
-        "rust": "cd $dir && cargo build",
-        "csharp": "dotnet run",
-    },
+    "files.associations": {
+        "*.tcc": "cpp",
+        "cctype": "cpp",
+        "clocale": "cpp",
+        "cmath": "cpp",
+        "cstdint": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "cwchar": "cpp",
+        "cwctype": "cpp",
+        "exception": "cpp",
+        "initializer_list": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "ostream": "cpp",
+        "stdexcept": "cpp",
+        "streambuf": "cpp",
+        "string_view": "cpp",
+        "system_error": "cpp",
+        "cinttypes": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp"
+    }
 }
