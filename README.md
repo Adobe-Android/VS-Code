@@ -53,7 +53,7 @@
     - **Author: vector-of-bool**
     - https://marketplace.visualstudio.com/items?itemName=vector-of-bool.cmake-tools
 
-#### Rust:
+#### Rust (support is still largely immature in VS Code):
   - Rust
     - **Author: kalitaalexey**
     - https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust
