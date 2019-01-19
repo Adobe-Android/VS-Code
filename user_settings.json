@@ -1,0 +1,23 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 16,
+    "breadcrumbs.enabled": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1200,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "code-runner.clearPreviousOutput": true,
+    "rust.rustup": {
+        "toolchain": "stable-x86_64-unknown-linux-gnu",
+        "nightlyToolchain": "nightly-x86_64-unknown-linux-gnu"
+    },
+    "rust.mode": "rls",
+    "rust.rls": {
+        "useRustfmt": true
+    },
+    "code-runner.executorMap": {
+        "rust": "cd $dir && cargo build",
+        "csharp": "dotnet run"
+    }
+}
+
