@@ -11,9 +11,6 @@
   - Material Icon Theme 
     - **Author: Philipp Kief**
     - https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
-  - Code Runner (automate the process of running your code with a single button or a key combination). 
-    - **Author: Juan Han**
-    - https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
   - Live Server
     - **Author: Ritwick Dey**
     - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
@@ -43,9 +40,6 @@
   - C/C++
     - **Author: Microsoft**
     - https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
-  - C++ Intellisense
-    - **Author: austin**
-    - https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global
   - CMake
     - **Author: twxs**
     - https://marketplace.visualstudio.com/items?itemName=twxs.cmake
