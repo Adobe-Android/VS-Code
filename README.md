@@ -36,7 +36,7 @@
     - **Author: Jun Han**
     - https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet
     
-#### C++:
+#### C/C++:
   - C/C++
     - **Author: Microsoft**
     - https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
