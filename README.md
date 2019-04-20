@@ -24,7 +24,7 @@
   - Python
     - **Author: Microsoft**
     - https://marketplace.visualstudio.com/items?itemName=ms-python.python
-    
+
 #### C#:
   - C#
     - **Author: Microsoft**
@@ -35,7 +35,13 @@
   - .NET Core Tools
     - **Author: Jun Han**
     - https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet
-    
+  - .NET Core Test Explorer
+    - **Author: Jun Han**
+    - https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer
+  - Dotnet Core Essentials
+    - **Author: Kishore Ithadi**
+    - https://marketplace.visualstudio.com/items?itemName=kishoreithadi.dotnet-core-essentials
+
 #### C/C++:
   - C/C++
     - **Author: Microsoft**
@@ -46,6 +52,16 @@
   - CMake Tools
     - **Author: vector-of-bool**
     - https://marketplace.visualstudio.com/items?itemName=vector-of-bool.cmake-tools
+    
+#### Java:
+  - Java Extension Pack 
+    - **Author: Microsoft**
+    - https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
+    
+#### x86_64 Assembly:
+  - x86 and x86_64 Assembly
+    - **Author: 13xforever**
+    - https://marketplace.visualstudio.com/items?itemName=13xforever.language-x86-64-assembly
 
 #### Rust (support is still largely immature in VS Code):
   - Rust
