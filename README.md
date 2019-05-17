@@ -19,7 +19,25 @@
   - highlight-matching-tag
       - **Author: vincaslt**
       - https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag
+
+#### XML:
+  - XML Tools
+      - **Author: Josh Johnson**
+      - https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml
       
+#### PowerShell:
+  - PowerShell
+      - **Author: Microsoft**
+      - https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell
+      
+#### JavaScript:
+  - ESLint
+    - **Author: Dirk Baeumer**
+    - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+  - Vetur (Vue)
+    - **Author: Pine Wu**
+    - https://marketplace.visualstudio.com/items?itemName=octref.vetur
+    
 #### Python:
   - Python
     - **Author: Microsoft**
