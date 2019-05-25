@@ -2,7 +2,7 @@
     "workbench.iconTheme": "material-icon-theme",
     "breadcrumbs.enabled": true,
     "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 1200,
+    "files.autoSaveDelay": 1100,
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
     "C_Cpp.updateChannel": "Insiders"
 }
