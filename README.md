@@ -5,15 +5,22 @@
   - Sublime Text Keymap (For Sublime converts) 
     - **Author: Microsoft**
     - https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings
-  - Bracket Pair Colorizer 
+  - Bracket Pair Colorizer 2
     - **Author: CoenraadS**
-    - https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+    - https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
   - Material Icon Theme 
     - **Author: Philipp Kief**
     - https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
   - Live Server
     - **Author: Ritwick Dey**
     - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+  - Azure Account
+    - **Author: Microsoft**
+    - https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account
+  - Azure Functions
+    - **Author: Microsoft**
+    - https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions
+    
 
 #### HTML:
   - highlight-matching-tag
