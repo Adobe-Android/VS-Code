@@ -20,6 +20,9 @@
   - Azure Functions
     - **Author: Microsoft**
     - https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions
+  - Version Lens
+    - **Author: pflannery**
+    - https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens
     
 
 #### HTML:
@@ -41,9 +44,6 @@
   - ESLint
     - **Author: Dirk Baeumer**
     - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-  - Vetur (Vue)
-    - **Author: Pine Wu**
-    - https://marketplace.visualstudio.com/items?itemName=octref.vetur
     
 #### Python:
   - Python
