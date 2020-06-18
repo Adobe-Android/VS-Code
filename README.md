@@ -77,16 +77,21 @@
   - CMake Tools
     - **Author: vector-of-bool**
     - https://marketplace.visualstudio.com/items?itemName=vector-of-bool.cmake-tools
-    
-#### Java:
-  - Java Extension Pack 
+
+#### Hex (immature but interesting):
+  - HexEditor
     - **Author: Microsoft**
-    - https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
+    - https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor&ssr=false#overview
     
 #### x86_64 Assembly:
   - x86 and x86_64 Assembly
     - **Author: 13xforever**
     - https://marketplace.visualstudio.com/items?itemName=13xforever.language-x86-64-assembly
+
+#### Java:
+  - Java Extension Pack 
+    - **Author: Microsoft**
+    - https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
 
 #### Rust (support is still largely immature in VS Code):
   - Rust
