@@ -75,9 +75,12 @@
     - **Author: twxs**
     - https://marketplace.visualstudio.com/items?itemName=twxs.cmake
   - CMake Tools
-    - **Author: vector-of-bool**
+    - **Author: Microsoft (formerly vector-of-bool)**
     - https://marketplace.visualstudio.com/items?itemName=vector-of-bool.cmake-tools
-
+  - Clang-Tidy
+    - **Author: notskm**
+    - https://marketplace.visualstudio.com/items?itemName=notskm.clang-tidy
+    
 #### Hex (immature but interesting):
   - HexEditor
     - **Author: Microsoft**
