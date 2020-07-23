@@ -20,6 +20,9 @@
   - Version Lens
     - **Author: pflannery**
     - https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens
+  - Image preview
+    - **Author: Kiss Tamás**
+    - https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview
 
 #### HTML:
   - highlight-matching-tag
