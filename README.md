@@ -66,6 +66,9 @@
   - Dotnet Core Essentials
     - **Author: Kishore Ithadi**
     - https://marketplace.visualstudio.com/items?itemName=kishoreithadi.dotnet-core-essentials
+  - C# XML Documentation Comments
+    - **Author: Keisuke Kato**
+    - https://marketplace.visualstudio.com/items?itemName=k--kato.docomment
 
 #### C/C++:
   - C/C++
