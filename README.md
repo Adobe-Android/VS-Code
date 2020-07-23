@@ -8,22 +8,18 @@
   - Bracket Pair Colorizer 2
     - **Author: CoenraadS**
     - https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
+  - indent-rainbow
+    - **Author: oderwat**
+    - https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
   - Material Icon Theme 
     - **Author: Philipp Kief**
     - https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
   - Live Server
     - **Author: Ritwick Dey**
     - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-  - Azure Account
-    - **Author: Microsoft**
-    - https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account
-  - Azure Functions
-    - **Author: Microsoft**
-    - https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions
   - Version Lens
     - **Author: pflannery**
     - https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens
-    
 
 #### HTML:
   - highlight-matching-tag
@@ -31,19 +27,33 @@
       - https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag
 
 #### XML:
+  - XML
+      - **Author: Red Hat**
+      - https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml
   - XML Tools
       - **Author: Josh Johnson**
       - https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml
-      
+
+#### SQLite:
+  - SQLite
+      - **Author: alexcvzz**
+      - https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite
+
 #### PowerShell:
   - PowerShell
       - **Author: Microsoft**
       - https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell
       
-#### JavaScript:
+#### JavaScript/TypeScript:
   - ESLint
     - **Author: Dirk Baeumer**
     - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+  - TSLint
+    - **Author: Microsoft**
+    - https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin
+  - Import Cost
+    - **Author: Wix**
+    - https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
     
 #### Python:
   - Python
@@ -83,7 +93,12 @@
   - Clang-Tidy
     - **Author: notskm**
     - https://marketplace.visualstudio.com/items?itemName=notskm.clang-tidy
-    
+
+#### Arduino:
+  - Arduino
+    - **Author: Microsoft**
+    - https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino
+
 #### Hex (immature but interesting):
   - HexEditor
     - **Author: Microsoft**
@@ -112,3 +127,11 @@
   - crates
     - **Author: Seray Uzgur**
     - https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates
+
+#### Cloud:
+  - Azure Account
+    - **Author: Microsoft**
+    - https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account
+  - Azure Functions
+    - **Author: Microsoft**
+    - https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions
