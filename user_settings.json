@@ -3,5 +3,7 @@
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 1200,
     "git.enableSmartCommit": true,
-    "C_Cpp.updateChannel": "Insiders"
+    "C_Cpp.updateChannel": "Insiders",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "screencastMode.onlyKeyboardShortcuts": true
 }
