@@ -84,15 +84,22 @@
     - https://marketplace.visualstudio.com/items?itemName=k--kato.docomment
 
 #### C/C++:
-  - C/C++
+  - C/C++ Extension Pack
     - **Author: Microsoft**
-    - https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
-  - CMake
-    - **Author: twxs**
-    - https://marketplace.visualstudio.com/items?itemName=twxs.cmake
-  - CMake Tools
-    - **Author: Microsoft (formerly vector-of-bool)**
-    - https://marketplace.visualstudio.com/items?itemName=vector-of-bool.cmake-tools
+    - https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack
+    
+    Includes:
+    C/C++,
+    C/C++ Themes,
+    CMake,
+    CMake Tools,
+    Remote Development Extension Pack,
+    GitHub Pull Requests and Issues,
+    Visual Studio Codespaces,
+    LiveShare Extension Pack,
+    Doxygen Documentation Generator,
+    Better C++ Syntax
+
   - Clang-Tidy
     - **Author: notskm**
     - https://marketplace.visualstudio.com/items?itemName=notskm.clang-tidy
