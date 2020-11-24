@@ -5,5 +5,8 @@
     "git.enableSmartCommit": true,
     "C_Cpp.updateChannel": "Insiders",
     "editor.multiCursorModifier": "ctrlCmd",
-    "screencastMode.onlyKeyboardShortcuts": true
+    "screencastMode.onlyKeyboardShortcuts": true,
+    "cmake.configureSettings": {
+    "CMAKE_TOOLCHAIN_FILE": "C:/Users/tngam/source/repos/cpp/vcpkg/scripts/buildsystems/vcpkg.cmake"
+  }
 }
